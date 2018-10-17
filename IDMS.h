@@ -1,6 +1,6 @@
 /* IDMS.h - Infrared Distance Measuring Sensor Library
  * 
- * Author: Márcio Pessoa <marcio@pessoa.eti.br>
+ * Author: Márcio Pessoa <marcio.pessoa@gmail.com>
  * Contributors: none
  * 
  * Sensor technical specification
